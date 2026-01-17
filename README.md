@@ -3,18 +3,18 @@ I am Deepak Kumar with around 4+ Yrs of experience in DevOps, mainly focusing on
 
 **Tech Stack:**
 
-Cloud & Infrastructure: AWS, Linux
+1. Cloud & Infrastructure: AWS, Linux
 
-IaC & Configuration Management: Terraform, Ansible
+2. IaC & Configuration Management: Terraform, Ansible
 
-CI/CD Tools & Scripting: Jenkins, Python
+3. CI/CD Tools & Scripting: Jenkins, Python
 
-Container & Orchestration: Docker, Kubernetes
+4. Container & Orchestration: Docker, Kubernetes
 
-Monitoring Stack: Grafana, Prometheus
+5. Monitoring Stack: Grafana, Prometheus
 
-Version Control: Git, GitHub, BitBucket
+6. Version Control: Git, GitHub, BitBucket
 
-System Design: Scalable Infrastructure Design, Microservices Architecture, Caching
+8. System Design: Scalable Infrastructure Design, Microservices Architecture, Caching
 
 Let's Connect to Discuss more about skills. I will help you to set up infrastructure.
